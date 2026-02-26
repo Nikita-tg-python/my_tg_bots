@@ -23,7 +23,7 @@
 
 1. **Клонувати репозиторій:**
    ```bash
-   git clone [https://github.com/Nikita-tg-python/my_tg_bots.git](https://github.com/Nikita-tg-python/my_tg_bots.git)
+   git clone https://github.com/Nikita-tg-python/my_tg_bots.git
 
 2. **Встановити залежності:**
    ```bash
