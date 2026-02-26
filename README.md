@@ -26,16 +26,16 @@
    git clone [https://github.com/Nikita-tg-python/my_tg_bots.git](https://github.com/Nikita-tg-python/my_tg_bots.git)
 
 2. **Встановити залежності:**
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. **Налаштувати змінні оточення:**
-Створіть файл .env та додайте свій токен:
+Створіть файл .env та додайте свій токен
 
-4.**Запустити бота:**
-python tg_bot2.py
-
-
-
+4.**Запустити бота**
+```bash
+   python tg_bot2.py
+```
 ## Автор
 * **Микита** — Python Developer з Одеської області.
 
